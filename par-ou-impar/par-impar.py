@@ -11,3 +11,5 @@ while parar == "s":
     else:
       print("É um número impar!")
       parar = input("Quer continuar? [S/N] ")
+
+#GabrielVieira
